@@ -7,3 +7,4 @@
 // let companyCeo = 'Susan Smith'
 
 
+let companyName = 'Scuber';
